@@ -1,0 +1,15 @@
+{
+  "name": "gold-digger",
+  "version": "1.0.0",
+  "description": "buy gold and check gold price",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "harsh",
+  "license": "ISC",
+  "dependencies": {
+    "sanitize-html": "^2.17.4"
+  }
+}
